@@ -88,7 +88,7 @@
                                                 <DataGridTextColumn Binding="{Binding Druid}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Druid}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/druid.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -100,7 +100,7 @@
                                                 <DataGridTextColumn Binding="{Binding Hunter}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Hunter}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/hunter.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -112,7 +112,7 @@
                                                 <DataGridTextColumn Binding="{Binding Mage}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Mage}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/mage.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -124,7 +124,7 @@
                                                 <DataGridTextColumn Binding="{Binding Paladin}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Paladin}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/paladin.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -136,7 +136,7 @@
                                                 <DataGridTextColumn Binding="{Binding Priest}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Priest}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/priest.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -148,7 +148,7 @@
                                                 <DataGridTextColumn Binding="{Binding Rogue}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Rogue}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/rogue.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -160,7 +160,7 @@
                                                 <DataGridTextColumn Binding="{Binding Shaman}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Shaman}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/shaman.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -172,7 +172,7 @@
                                                 <DataGridTextColumn Binding="{Binding Warlock}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Warlock}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/warlock.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -184,7 +184,7 @@
                                                 <DataGridTextColumn Binding="{Binding Warrior}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Warrior}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/warrior.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -224,7 +224,7 @@
                                                 <DataGridTextColumn Binding="{Binding Druid}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Druid}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/druid.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -236,7 +236,7 @@
                                                 <DataGridTextColumn Binding="{Binding Hunter}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Hunter}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/hunter.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -248,7 +248,7 @@
                                                 <DataGridTextColumn Binding="{Binding Mage}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Mage}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/mage.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -260,7 +260,7 @@
                                                 <DataGridTextColumn Binding="{Binding Paladin}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Paladin}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/paladin.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -272,7 +272,7 @@
                                                 <DataGridTextColumn Binding="{Binding Priest}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Priest}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/priest.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -284,7 +284,7 @@
                                                 <DataGridTextColumn Binding="{Binding Rogue}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Rogue}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/rogue.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -296,7 +296,7 @@
                                                 <DataGridTextColumn Binding="{Binding Shaman}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Shaman}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/shaman.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -308,7 +308,7 @@
                                                 <DataGridTextColumn Binding="{Binding Warlock}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Warlock}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/warlock.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -320,7 +320,7 @@
                                                 <DataGridTextColumn Binding="{Binding Warrior}" MinWidth="47" Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Warrior}" Width="24" Height="24" />
+                                                        <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/warrior.png" Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
                                                     <DataGridTextColumn.ElementStyle>
@@ -509,7 +509,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Druid}" Width="24"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/druid.png" Width="24"
                                                                        Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
@@ -523,7 +523,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Hunter}"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/hunter.png"
                                                                        Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
@@ -537,7 +537,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Mage}" Width="24"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/mage.png" Width="24"
                                                                        Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
@@ -551,7 +551,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Paladin}"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/paladin.png"
                                                                        Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
@@ -565,7 +565,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Priest}"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/priest.png"
                                                                        Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
@@ -579,7 +579,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Rogue}" Width="24"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/rogue.png" Width="24"
                                                                        Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
@@ -593,7 +593,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Shaman}"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/shaman.png"
                                                                        Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
@@ -607,7 +607,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Warlock}"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/warlock.png"
                                                                        Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
@@ -621,7 +621,7 @@
                                                                         Width="auto">
                                                     <DataGridTextColumn.HeaderTemplate>
                                                         <DataTemplate>
-                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="{x:Static utility:ImageCache.Warrior}"
+                                                            <Image RenderOptions.BitmapScalingMode="Fant" Source="../Resources/ClassIcons/Round/warrior.png"
                                                                        Width="24" Height="24" />
                                                         </DataTemplate>
                                                     </DataGridTextColumn.HeaderTemplate>
